@@ -13,6 +13,7 @@ namespace Entity;
  *
  * @author user
  */
+//абстрактный класс робота у всех роботов одинаковые свойства
 abstract class AbstractRobot {
 
     public $massa;

@@ -14,7 +14,7 @@ namespace Entity;
  * @author user
  */
 use Entity\AbstractRobot;
-
+//конкретный тип робота Robot1
 class Robot1 extends AbstractRobot{
     
     public $massa = 20;

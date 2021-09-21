@@ -13,6 +13,7 @@ namespace Entity;
  *
  * @author user
  */
+//конкретный тип робота MergeRobot
 class MergeRobot{
     
     public $robots = [];

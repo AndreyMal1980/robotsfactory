@@ -18,7 +18,7 @@ use \Entity\Robot2;
 use \Entity\AbstractRobot;
 
 //use \Factory\IFactoryRobot;
-
+//фаьрика по созданию роботов
 class FactoryRobot {
 
     public $robots = [];
